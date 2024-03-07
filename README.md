@@ -12,7 +12,7 @@ Python 3.7.0
 Pytorch 1.8.0
 CuDNN 8.0.5
 ```
-Our Anaconda environment is also available for download from [Google Drive]().<br />
+Our Anaconda environment is also available for download from [Google Drive]() (Coming Soon).<br />
 
 Upon decompression, please move ```czy_pytorch``` to ```your_root/anaconda3/envs/```. Then the environment can be activated by ```conda activate czy_pytorch```.
 
