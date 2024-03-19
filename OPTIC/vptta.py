@@ -40,7 +40,7 @@ class VPTTA:
         target_test_dataset = OPTIC_dataset(config.dataset_root, ts_img_list, ts_label_list,
                                             config.image_size, img_normalize=True)
         self.target_test_loader = DataLoader(dataset=target_test_dataset,
-                                             batch_size=1,
+                                             batch_size=config.batch_size,
                                              shuffle=False,
                                              pin_memory=True,
                                              drop_last=False,
