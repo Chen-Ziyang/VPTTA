@@ -48,7 +48,7 @@ If this code is helpful for your research, please cite:
   title={Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation},
   author={Chen, Ziyang and Ye, Yiwen and Lu, Mengkang and Pan, Yongsheng and Xia, Yong},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={},
+  pages={11184-11193},
   year={2024}
 }
 ```
