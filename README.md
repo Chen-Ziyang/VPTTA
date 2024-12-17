@@ -12,7 +12,7 @@ Python 3.7.0
 Pytorch 1.8.0
 CuDNN 8.0.5
 ```
-Our Anaconda environment is also available for download from [Google Drive](https://drive.google.com/file/d/1vAEyFrJ_wLiLwNJfBTg6J-wC9CbzCLmn/view?usp=sharing).<br />
+Our Anaconda environment is also available for download from [Google Drive](https://drive.google.com/file/d/1vAEyFrJ_wLiLwNJfBTg6J-wC9CbzCLmn/view?usp=sharing).
 
 Upon decompression, please move ```czy_pytorch``` to ```your_root/anaconda3/envs/```. Then the environment can be activated by ```conda activate czy_pytorch```.
 
@@ -20,7 +20,7 @@ Upon decompression, please move ```czy_pytorch``` to ```your_root/anaconda3/envs
 The preprocessed data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1axgu3-65un-wA_1OH-tQIUIEHEDrnS_-?usp=drive_link).
 
 ## Pre-trained Models
-The pre-trained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1WWRbFLN3ELGbNs9jnl5bt4bIHuha8jWw?usp=drive_link).<br />
+Download pre-trained models from [Google Drive](https://drive.google.com/drive/folders/1WWRbFLN3ELGbNs9jnl5bt4bIHuha8jWw?usp=drive_link) and drag the folder 'models' into the folder 'OPTIC' or 'POLYP'.
 
 You can also train your own models from scratch following:
 
